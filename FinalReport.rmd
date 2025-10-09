@@ -90,4 +90,4 @@ You can mostly see that the black and white are the ones with the most differenc
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-
+This process was similar to the one in the master branch, but we had fewer observations only 821 since a statistical difference was found only between Black and White respondents. Because of this, there wasn’t much variation in the p-values. The main difference was between Black and White groups, with a very low p-value (0.000017), showing that White respondents were more likely to support capital punishment, while fewer Black respondents did. The p-values between White and “Other” (0.2565) and between Black and “Other” (0.06299) were not significant, meaning their views were fairly similar. Overall, the data suggests that race may be related to opinions on capital punishment, though it’s likely influenced by other social or personal factors rather than race alone.
